@@ -1,0 +1,14 @@
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\4_Projektas_uzd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\4_Projektas_uzd.AssemblyInfoInputs.cache
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\4_Projektas_uzd.AssemblyInfo.cs
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\4_Projektas_uzd.csproj.CoreCompileInputs.cache
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\bin\Debug\net8.0\4_Projektas_uzd.exe
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\bin\Debug\net8.0\4_Projektas_uzd.deps.json
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\bin\Debug\net8.0\4_Projektas_uzd.runtimeconfig.json
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\bin\Debug\net8.0\4_Projektas_uzd.dll
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\bin\Debug\net8.0\4_Projektas_uzd.pdb
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\4_Projektas_uzd.dll
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\refint\4_Projektas_uzd.dll
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\4_Projektas_uzd.pdb
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\4_Projektas_uzd.genruntimeconfig.cache
+D:\Visual_Studio_Codes\4_Semestras\Informacine_Sauga\4_Projektas_uzd\obj\Debug\net8.0\ref\4_Projektas_uzd.dll
